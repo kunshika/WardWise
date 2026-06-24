@@ -2,6 +2,7 @@
 
 > **Version:** 1.0 (MVP)
 > **Author:** Kunshika
+> **Status:** Draft
 > **Last Updated:** June 2025
 
 ---
@@ -250,3 +251,15 @@ These failures lead to patient delays, staff frustration, and potential revenue 
 | Phase 5 | Week 4–5 | Testing, case study, portfolio packaging |
 
 ---
+
+## 12. Open Questions
+
+These are intentionally left open — in PM interviews, open questions demonstrate you think about edge cases, not just the happy path.
+
+1. Should receptionists be able to see which staff made a booking, or only their own?
+2. What happens to a booking if a room is blocked mid-stay — auto-alert or manual resolution?
+3. Do we need multi-day bookings (ICU stays) or just same-day slots?
+
+---
+
+*WardWise · Built as a PM + SDE portfolio project · Kunshika*
